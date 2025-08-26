@@ -8,7 +8,7 @@ Projeto desenvolvido para praticar **Git/GitHub** no WebAcademy da UFAC.
 #  Desenvolvedores
 - dev1
 - dev2
--dev3
+- dev3
 
 ## Como rodar
 1. Clone repositório:
