@@ -1,5 +1,6 @@
 # Projeto-Receita
-**Time:** 'WebDevs'
+**Time:** 'Grupo em frente a Alexa'
+**Membros:** Guilherme, Hilquias, Milena, Lucas
 
 ## Descrição
 Projeto desenvolvido para praticar **Git/GitHub** no WebAcademy da UFAC.
